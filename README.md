@@ -26,22 +26,6 @@ The **SmartMenu Ordering System** is a Python-based interactive digital ordering
 
 ---
 
-## Installation and Setup
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/YourGitHubUsername/SmartMenu.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd SmartMenu
-   ```
-3. Run the Python application:
-   ```bash
-   python SmartMenu.py
-   ```
-
----
-
 ## Usage
 1. Launch the application.
 2. Navigate through the menu categories (Appetizers, Mains, Desserts).
